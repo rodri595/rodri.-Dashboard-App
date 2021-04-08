@@ -1,0 +1,161 @@
+<div className="owl-item active" style={{ width: "640px" }}>
+<div className="slider__item">
+  <div className="slider__details">
+    <div className="slider__title h5">
+      Set a Google Analytics Code
+    </div>
+    <div className="slider__text">
+      Did you know you can set a Google Analytics code for your
+      products?
+    </div>
+    <a
+      className="slider__btn btn btn_white js-popup-open"
+      href="#popup-settings"
+      data-effect="mfp-zoom-in"
+    >
+      Settings
+    </a>
+  </div>
+  <div className="slider__preview">
+    <img className="slider__pic" src={sliderpic} alt />
+  </div>
+</div>
+</div>
+<div className="owl-item cloned" style={{ width: "640px" }}>
+<div className="slider__item">
+  <div className="slider__details">
+    <div className="slider__title h5">
+      Set a Google Analytics Code
+    </div>
+    <div className="slider__text">
+      Did you know you can set a Google Analytics code for your
+      products?
+    </div>
+    <a
+      className="slider__btn btn btn_white js-popup-open"
+      href="#popup-settings"
+      data-effect="mfp-zoom-in"
+    >
+      Settings
+    </a>
+  </div>
+  <div className="slider__preview">
+    <img className="slider__pic" src={sliderpic} alt />
+  </div>
+</div>
+</div>
+<div className="owl-item active" style={{ width: "640px" }}>
+<div className="slider__item">
+  <div className="slider__details">
+    <div className="slider__title h5">
+      Set a Google Analytics Code
+    </div>
+    <div className="slider__text">
+      Did you know you can set a Google Analytics code for your
+      products?
+    </div>
+    <a
+      className="slider__btn btn btn_white js-popup-open"
+      href="#popup-settings"
+      data-effect="mfp-zoom-in"
+    >
+      Settings
+    </a>
+  </div>
+  <div className="slider__preview">
+    <img className="slider__pic" src={sliderpic} alt />
+  </div>
+</div>
+</div>
+<div className="owl-item" style={{ width: "640px" }}>
+<div className="slider__item">
+  <div className="slider__details">
+    <div className="slider__title h5">
+      Set a Google Analytics Code
+    </div>
+    <div className="slider__text">
+      Did you know you can set a Google Analytics code for your
+      products?
+    </div>
+    <a
+      className="slider__btn btn btn_white js-popup-open"
+      href="#popup-settings"
+      data-effect="mfp-zoom-in"
+    >
+      Settings
+    </a>
+  </div>
+  <div className="slider__preview">
+    <img className="slider__pic" src={sliderpic} alt />
+  </div>
+</div>
+</div>
+<div className="owl-item" style={{ width: "640px" }}>
+<div className="slider__item">
+  <div className="slider__details">
+    <div className="slider__title h5">
+      Set a Google Analytics Code
+    </div>
+    <div className="slider__text">
+      Did you know you can set a Google Analytics code for your
+      products?
+    </div>
+    <a
+      className="slider__btn btn btn_white js-popup-open"
+      href="#popup-settings"
+      data-effect="mfp-zoom-in"
+    >
+      Settings
+    </a>
+  </div>
+  <div className="slider__preview">
+    <img className="slider__pic" src={sliderpic} alt />
+  </div>
+</div>
+</div>
+<div className="owl-item cloned" style={{ width: "640px" }}>
+<div className="slider__item">
+  <div className="slider__details">
+    <div className="slider__title h5">
+      Set a Google Analytics Code
+    </div>
+    <div className="slider__text">
+      Did you know you can set a Google Analytics code for your
+      products?
+    </div>
+    <a
+      className="slider__btn btn btn_white js-popup-open"
+      href="#popup-settings"
+      data-effect="mfp-zoom-in"
+    >
+      Settings
+    </a>
+  </div>
+  <div className="slider__preview">
+    <img className="slider__pic" src={sliderpic} alt />
+  </div>
+</div>
+</div>
+<div className="owl-item cloned" style={{ width: "640px" }}>
+<div className="slider__item">
+  <div className="slider__details">
+    <div className="slider__title h5">
+      Set a Google Analytics Code
+    </div>
+    <div className="slider__text">
+      Did you know you can set a Google Analytics code for your
+      products?
+    </div>
+    <a
+      className="slider__btn btn btn_white js-popup-open"
+      href="#popup-settings"
+      data-effect="mfp-zoom-in"
+    >
+      Settings
+    </a>
+  </div>
+  <div className="slider__preview">
+    <img className="slider__pic" src={sliderpic} alt />
+  </div>
+</div>
+</div>
